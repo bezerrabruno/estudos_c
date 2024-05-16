@@ -1,12 +1,13 @@
 # Estudos em C
 
-## Estudos totais atualmente = 0
+## Estudos totais atualmente = 3
 
 ## Estudos
 
 ### Aprendendo o basico com C
+* Tabuada - Finalizado.
 * Numero Secreto - Finalizado.
-* Calculadora - Em andamento.
+* Calculadora - Finalizado.
 
 Repositorio para estudos
 
