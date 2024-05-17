@@ -9,6 +9,9 @@
 * Numero Secreto - Finalizado.
 * Calculadora - Finalizado.
 
+### Aprofundando conhecimento em C
+* Forca - Em andamento.
+
 Repositorio para estudos
 
 
